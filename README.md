@@ -1,4 +1,4 @@
-# JD_Spider_python是一个python抓取京东商城的爬虫，没有使用框架，主要使用了requests,BeautifulSoup,threading,time,mysql数据库存储
+`JD_Spider_python`是一个python抓取京东商城的爬虫，没有使用框架，主要使用了requests,BeautifulSoup,threading,time,mysql数据库存储
 
 # Usage
 
